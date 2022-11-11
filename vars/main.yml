@@ -1,0 +1,3 @@
+web: httpd
+location: /var/www/html
+svc_name: httpd
